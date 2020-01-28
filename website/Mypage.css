@@ -1,0 +1,45 @@
+html {
+    height: 100%;
+    background-image: url("back.jpg");
+}
+
+.mypage {
+    color: #aaaaaa;
+    font-size: 50px;
+    margin-left: 400px;
+    margin-bottom: 60px;
+}
+.test {
+    position: relative;
+    color: white;
+    font-size: 30px;
+    left: 400px;
+}
+
+.Img {
+    position: absolute;
+    top: 150px;
+    width: 100%;
+}
+/*color: #68edea;*/
+
+.about {
+    color: #68edea;
+    position: absolute;
+    left: 400px;
+    top: 20px;
+    font-size: 27px;
+}
+
+.aboutme {
+    color: #68edea;
+    font-size: 35px;
+}
+
+footer {
+    position: absolute;
+    height: 50px;
+    width: 100%;
+    background-color: #aaaaaa;
+    top: 750px;
+}
